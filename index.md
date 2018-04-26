@@ -55,14 +55,15 @@ Hands On Extreme Hacking
 - Crytography.
 - Penetration Testing Report
 
-
-```
 Books:
 Penetration Testing: A Hands-On Introduction to Hacking (+Highly recommended for beginners)
 Hacking: The Art of Exploitation, 2nd Edition
 Rtfm: Red Team Field Manual
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 The Hacker Playbook: Practical Guide To Penetration Testing
+
+```
+
 
 
 [Link](url) and ![Image](src)
@@ -76,4 +77,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 rattlelabs@gmail.com
 [facebook](https://www.facebook.com/RattleMindOfficial/)
-[linkdin](linkedin.com/in/mohsin-khan-412439149/)
+[linkedin](linkedin.com/in/mohsin-khan-412439149/)
