@@ -1,10 +1,10 @@
 ## Ethical Hacking Professional
-This is Information Security Course.
+This is Information Security and Penetration Testing  Course Content.
 
-### Ethical Hacking Professional Training Content
+### Ethical Hacking Professional
 
 ``` Curiculum
-1. Introduction to Ethical Hacking
+1. Introduction to Ethical Hacking amd Pentesting Phases
 2. Basic of Networking windows & Linux
 3. Footprinting and Reconnaissance
 4. Scanning Networks
@@ -30,11 +30,39 @@ This is Information Security Course.
 ```
 Hands On Extreme Hacking
 
-- Bulleted
-- List
+- Networking Fundamentals.
+- Command in Linux.
+- Information Gathering.
+- Scanning.
+- Network Pentesting 
+- Wireshark Essentials.
+- Website Exploitation.
+    -Sql Injection.
+    -Xss
+    -Backdoor Access
+    -DVWA
+- Metasploit.
+- Exploitation.
+- Programming
+- Post Exploitation.
+    -Pesistent Payload.
+    -Bypassing av in windows 10.
+    -Registry Edit.
+- Android Pentesting.
+- Buffer Overflow.
+- Introduction To Hardware Hacking and IOT.
+    -Physical Attacking Toolkit.
+- Crytography.
+- Penetration Testing Report
 
 
 ```
+Books:
+Penetration Testing: A Hands-On Introduction to Hacking (+Highly recommended for beginners)
+Hacking: The Art of Exploitation, 2nd Edition
+Rtfm: Red Team Field Manual
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+The Hacker Playbook: Practical Guide To Penetration Testing
 
 
 [Link](url) and ![Image](src)
@@ -42,10 +70,10 @@ Hands On Extreme Hacking
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rattlelabs/rattlemind/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+rattlelabs@gmail.com
+[facebook](https://www.facebook.com/RattleMindOfficial/)
+[linkdin](linkedin.com/in/mohsin-khan-412439149/)
