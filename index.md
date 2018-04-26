@@ -51,7 +51,7 @@ Hands On Extreme Hacking
 - Android Pentesting.
 - Buffer Overflow.
 - Introduction To Hardware Hacking and IOT.
-    -Physical Attacking Toolkit.
+    -Physical Pentesting Toolkit.
 - Crytography.
 - Penetration Testing Report
 
@@ -67,10 +67,6 @@ The Hacker Playbook: Practical Guide To Penetration Testing
 
 
 [Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 
 
 ### Contact
