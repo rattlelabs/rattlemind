@@ -45,7 +45,7 @@ Hands On Extreme Hacking
 - Exploitation.
 - Programming
 - Post Exploitation.
-    -Pesistent Payload.
+    -Persistent Payload.
     -Bypassing av in windows 10.
     -Registry Edit.
 - Android Pentesting.
